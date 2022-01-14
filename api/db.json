@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "stream 1",
+      "description": "this is first stream",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This is just another stream",
+      "id": 2
+    },
+    {
+      "title": "programmatic routing(edited)",
+      "description": "this stream was made to test programmatic routing",
+      "id": 4
+    },
+    {
+      "title": "new title ",
+      "description": "testing for the hundredth time ",
+      "userId": "118413735820958715671",
+      "id": 5
+    }
+  ]
+}
